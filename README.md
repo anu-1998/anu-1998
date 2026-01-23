@@ -7,7 +7,7 @@ I’m deeply passionate about cybersecurity and thrive on solving complex securi
 - **[Vulnerability Management Program Implementation](https://github.com/anu-1998/Manual-Vulnerability-Remediation-on-Windows)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/anu-1998/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-)**
 
-##🔐 Threat Frameworks & Security Tooling
+## 🔐 Threat Frameworks & Security Tooling
 - **[MITRE ATT&CK Navigator](https://github.com/anu-1998/MITRE-ATT-CK-NAVIGATOR)**
 - **[MITRE ATT&CK](https://github.com/anu-1998/MITRE-ATT-CK)**
 
